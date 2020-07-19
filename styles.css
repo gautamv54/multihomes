@@ -1,0 +1,378 @@
+/* first */
+
+body{
+    background-color: #fff;
+    
+}
+
+/* navigation bar */
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight:bold;
+
+}
+
+.navbar{
+    padding:0;
+    height: 70px;
+   
+}
+.nav-item{
+    padding: 0px 18px;
+   
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "montserrat-light";
+
+}
+.multi{
+    font-weight: lighter;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.first-section{
+    text-align: center;
+    margin: 10px auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 400.400px;
+    width: 514.800px;
+   
+}
+@media(min-width:500px){
+    .first-section{
+    max-width: 480px;
+    padding-top: 10px;
+    padding-bottom:20px; 
+    height: 350px;
+    }
+}
+
+
+   .first-img{
+       width: 100%;
+
+   }
+.first-box{
+    margin:auto;
+}
+.lead{
+    margin-top: 40px;
+}
+.featurette-divider{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footer{
+    background-color: #292b2c;
+    padding: 7% 15%;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.copyright{
+    padding-top: 10px;
+    color: #fff;
+}
+.icon1{
+    margin: 0px 10px;
+}
+.icon1{
+    color: #fff;
+}
+.multii{
+    color: #fff;
+    font-weight: lighter;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+.sticky-top{
+    position: sticky;
+}
+.hom{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight:bold;
+    color: #fff;
+}
+
+
+
+/* about */
+
+.middle-container{
+    height: 1800px;
+    padding:100px 0px 100px 0px;
+}
+.vishal-heading{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.vishal{
+    margin: auto;
+    width: 30%;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    
+}
+.mota{
+    font-size: 2.5rem;
+    font-weight: bolder;
+    text-align: center;
+    color: #6c757d;
+}    
+ .motil{
+    font-size: 2rem;
+    font-weight: bolder;
+    text-align: center;
+    color: #6c757d;
+    padding-top: 70px;
+ }
+ .mot{
+     font-size: 2rem;
+     font-weight: bolder;
+    text-align: left;
+    color: #6c757d;
+    padding-top: 50px;
+ }
+  .aboutimg{
+      padding-top: 110px;
+  }
+p{
+    line-height: 2;
+
+}
+
+.sid{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.hema{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: #6c757d;
+}
+.pkc{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    }
+
+    h2{
+        color: #6c757d;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        font-weight: normal;
+        margin: auto;
+    } 
+    h3{
+        color: #6c757d;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        
+    }
+    h4{
+        color: #6c757d;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2rem;
+    }
+    .joti{
+        color: #6c757d;
+    }
+    hr{
+        border: none;
+        border:10px dotted;
+        width: 5%;
+        border-bottom-width: 0px;
+        color: #eaf6f6;
+        margin: 80px auto;
+    } 
+
+
+
+    .white {
+        background-color: #FFF;
+    }
+    .white-bottom{
+        background-color: #fff;
+        padding: 0;
+    }
+    .container-blog{
+        margin: auto;
+        width: 820px; 
+        
+
+    }
+   
+    section {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        font-size: 16px;
+        line-height: 28px;
+        font-weight: 400;
+    }
+    
+    .carousel .carousel-control-prev .icon, .carousel .carousel-control-next .icon {
+        color: #00263f;
+        font-size: 30px;
+    }
+
+    .gray {
+        background-color: #F4F6F9;
+        color: #6c757d;
+    }
+
+   
+
+
+    /* product */
+
+
+    .media{
+
+        padding: 100px 200px;
+
+    }
+    .media-body{
+        padding-left: 50px;
+    }
+    #size{
+        height: 333px;
+        width: 500px;
+    }
+    .card-deck{
+        padding: 100px 200px;
+        margin-right: 0;
+    }
+    .img1{
+        height: 250px;
+        width: 350px;
+        padding-right: 50px;
+        float:center;
+       
+    }
+    .img2{
+        height: 250px;
+        width: 300px;
+       
+        float:center;
+       
+    }
+    .product-img{
+       padding-top: 0;
+    }
+    #image{
+       
+        padding:50px 0px 200px 35%;
+
+    }
+    .product-price{
+        color: #6c757d;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2rem;
+        font-weight: bolder;
+        text-align: left;
+
+    }
+
+    /* blogs */
+
+    .post-item {
+        width: 720px;
+        margin: 50px auto 50px;
+    }
+
+    .post-seperator {
+        width: 450px;
+        margin-top: 20px;
+        margin-left: -40px;
+        border-top: 1px solid #ececec;
+        
+    }
+
+    .post-author {
+        font-family: 'IBM Plex Sans', sans-serif;
+        font-weight: 300;
+        font-size: 18px;
+        margin-top: 15px;
+        color: #6c757d;
+    }
+
+    .post-title {
+        font-weight: 700;
+        color:#6c757d;
+    }
+
+    .post-content {
+        font-family: 'Miller Text Rom', Georgia, Cambria, 'Times New Roman', Times, serif;
+        font-size: 18px;
+        line-height: 1.6;
+        margin-top: 45px;
+         color: #6c757d;;
+    }
+    a {
+        color: #6c757d;
+        cursor: pointer;
+        -webkit-text-decoration: none;
+        text-decoration: none;
+    }
+
+
+.rera{
+    color: #6c757d;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+
+
+/* contact form */
+
+.container-contact {
+    max-width: 960px;
+}
+@media (min-width: 768px)
+.container-contact {
+    max-width: 720px;
+}
+@media (min-width: 576px)
+.container-contact {
+    max-width: 540px;
+}
+.container-contact {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
+#number{
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+    }
+
+    /* last */
+
+
